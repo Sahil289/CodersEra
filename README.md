@@ -1,2 +1,2 @@
 # CodersEra
-This is a Wordpress website.
+This is a static Wordpress website.
